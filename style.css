@@ -1,0 +1,12 @@
+body{
+    height: 100%;
+    background-image: url("Снимок экрана 2023-01-04 181048.png");
+}
+.logo {
+    margin: 250px auto;
+    font-size: 64px;
+    color: aliceblue;
+    text-align: center;
+    
+    
+}
